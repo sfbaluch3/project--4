@@ -1,0 +1,75 @@
+*{
+    margin: auto;
+    padding: 0%;
+}
+.header {
+    display: flex;
+    background-color: rgb(98, 98, 98);
+}
+img {
+    width: 80%;
+}
+.anchor {
+    display: inline;
+}
+a:hover {
+    color: black;
+}
+a {
+    font-size: 30px;
+    margin: 45px 85px;
+    display: inline-block;
+    text-decoration: none;
+    color: white;
+}
+.divone {
+    width: 15%;
+}
+input {
+    width: 17%;
+}
+input:hover {
+    color: black;
+}
+.section {
+    margin-top: 30px;
+    display: flex;
+}
+
+.imgone {
+    width: 33.4%;  
+}
+.imgtwo {
+    width: 33.3%;
+}
+.imgthree {
+    width: 33.3%;
+}
+.text {
+    display: flex;
+    background-color: blue;
+}
+.product:hover {
+    color: darkblue;
+    background-color: red;
+}
+.product {
+    color: white;
+    background-color: green;
+    text-align: center;
+    font-size: 50px;
+}
+.textone:hover {
+    color: darkblue;
+    background-color: red;
+}
+.texttwo:hover {
+    color: darkblue;
+    background-color: red;
+}
+.textthree:hover {
+    color: darkblue;
+    background-color: red;
+}
+
+
